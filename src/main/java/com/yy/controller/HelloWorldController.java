@@ -21,7 +21,7 @@ public class HelloWorldController {
 		map.put("name", "彭云云");
 		map.put("sex", "male");
 		System.out.println("test for git");
-                System.out.println("github updated file");
+        System.out.println("github updated file");
 		return map;
 	}
 }
