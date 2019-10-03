@@ -22,7 +22,7 @@ public class HelloWorldController {
 		map.put("sex", "male");
 		System.out.println("test for git");
         System.out.println("github updated file");
-                System.out.println("github to local");
+        System.out.println("github to local");
 		return map;
 	}
 }
