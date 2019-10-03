@@ -20,6 +20,7 @@ public class HelloWorldController {
 		Map<String,String> map=new HashMap<String,String>();
 		map.put("name", "彭云云");
 		map.put("sex", "male");
+		System.out.println("test for git");
 		return map;
 	}
 }
